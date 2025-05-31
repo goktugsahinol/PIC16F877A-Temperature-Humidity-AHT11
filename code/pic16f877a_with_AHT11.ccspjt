@@ -1,0 +1,19 @@
+[PROJECT]
+Target=pic16f877a_with_AHT11.hex
+Processor_Text=PIC16F877A
+CCSVersion=5.015
+Compiler=PCM
+[Target Data]
+FileList=pic16f877a_with_AHT11.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+[pic16f877a_with_AHT11.c]
+Type=4
+[mru-list]
+1=pic16f877a_with_AHT11.c
+[Opened Files]
+1=pic16f877a_with_AHT11.c
+2=
+[Units]
+Count=1
+1=pic16f877a_with_AHT11 (main)
