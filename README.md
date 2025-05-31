@@ -1,2 +1,3 @@
-# PIC16F877A-Temperature-Humidity-AHT11
-PIC16F877A microcontroller project for measuring temperature and humidity using the AHT10 sensor via I2C communication, displaying data on a 16x2 LCD.
+# PIC16F877A Temperature and Humidity Measurement using AHT10 Sensor
+
+This project demonstrates interfacing the AHT10 temperature and humidity sensor with the PIC16F877A microcontroller using I2C communication. The temperature and humidity data is displayed on a 16x2 LCD. The project is written in CCS C and suitable for embedded systems learners.
